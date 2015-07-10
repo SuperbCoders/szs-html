@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="19px" viewBox="0 0 17 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>trash-hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Imported-Layers-2-Copy-2" sketch:type="MSLayerGroup" transform="translate(0.000000, 1.000000)">
+            <path d="M0.200012207,3 L5.52611221,3 C5.78706221,3 5.99871221,2.751 5.99871221,2.444 L5.99871221,1.663 C5.99871221,0.744 6.63111221,0 7.41226221,0 L9.68516221,0 C10.4663122,0 11.0987122,0.744 11.0987122,1.663 L11.0987122,2.444 C11.0987122,2.751 11.3103622,3 11.5713122,3 L16.8974122,3 M5.14871221,3 L11.9487122,3" id="Stroke-1" stroke="#23B2FB" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M15.3,3.27272727 L13.79805,15.2754545 C13.68585,16.3579091 12.7398,17.1818182 11.61015,17.1818182 L5.38985,17.1818182 C4.2602,17.1818182 3.31415,16.3579091 3.20195,15.2754545 L1.7,3.27272727 L15.3,3.27272727 Z M5.95,12.2727273 L7.65,12.2727273 L7.65,5.72727273 L5.95,5.72727273 L5.95,12.2727273 Z M9.35,12.2727273 L11.05,12.2727273 L11.05,5.72727273 L9.35,5.72727273 L9.35,12.2727273 Z" id="Fill-2" fill="#23B2FB" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
