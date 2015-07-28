@@ -34,6 +34,15 @@ $(document).ready(function() {
   $(".name").click(function() {
     $('.user-menu').toggle("slow");
   });
+
+  $(".blcok-goals .img-goals").click(function() {
+    $('.column-right').toggle("slow");
+  });
+
+  $(".show-profile-menu").click(function() {
+    $('.profile-user-menu').toggle("slow");
+  });
+
 });
 
           
